@@ -1,4 +1,4 @@
-
+-- gyhvbjvv
 -- Bảng sản phẩm
 CREATE TABLE product (
     product_id INT PRIMARY KEY AUTO_INCREMENT,
@@ -65,3 +65,4 @@ CREATE TABLE delivery (
         ON DELETE CASCADE
         ON UPDATE CASCADE
 );
+
